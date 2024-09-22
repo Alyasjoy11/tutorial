@@ -1,0 +1,128 @@
+{
+    "student": {
+        "name": "Magkiling Pearl Joy S.",
+        "stud_no": "2022002286",
+        "password": ",",
+        "schedule": {
+            "Monday": [
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-9:00 AM"},
+                {"subject": "Vacant", "time": "9:00 AM-10:00 AM"},
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "10:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-2:00 PM"},
+                {"subject": "System Integration and Architecture", "teacher": "Mr. Jerome Dimafelix", "time": "2:00 PM-4:00 PM"}
+            ],
+            "Tuesday": [
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "1:00 PM-5:00 PM"}
+            ],
+            "Wednesday": [
+                {"subject": "Web System and Technologies II", "teacher": "Mr. Jethro Mariano", "time": "9:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Multimedia Publishing", "teacher": "Ms. Russel Amira Balacania", "time": "1:00 PM-4:00 PM"},
+                {"subject": "Vacant", "time": "4:00 PM-5:00 PM"},
+                {"subject": "Quantitative Methods", "teacher": "Mrs. Jermyn Evangelista", "time": "5:00 PM-6:00 PM"}
+            ],
+            "Thursday": [
+                {"subject": "Networking II", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Web System and Technologies II", "teacher": "Mr. Jethro Mariano", "time": "1:00 PM-3:00 PM"},
+                {"subject": "Vacant", "time": "3:00 PM-4:00 PM"},
+                {"subject": "Quantitative Methods", "teacher": "Mrs. Jermyn Evangelista", "time": "4:00 PM-6:00 PM"}
+            ],
+            "Friday": [
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "9:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "1:00 PM-3:00 PM"},
+                {"subject": "Vacant", "time": "3:00 PM-4:00 PM"},
+                {"subject": "System Integration and Architecture", "teacher": "Mr. Jerome Dimafelix", "time": "4:00 PM-5:00 PM"}
+            ]
+        }
+    }
+},
+
+{
+    "student": {
+        "name": "Lor John Philip",
+        "stud_no": "2022002286",
+        "password": ",",
+        "schedule": {
+            "Monday": [
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-9:00 AM"},
+                {"subject": "Vacant", "time": "9:00 AM-10:00 AM"},
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "10:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-2:00 PM"},
+                {"subject": "System Integration and Architecture", "teacher": "Mr. Jerome Dimafelix", "time": "2:00 PM-4:00 PM"}
+            ],
+            "Tuesday": [
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "1:00 PM-5:00 PM"}
+            ],
+            "Wednesday": [
+                {"subject": "Web System and Technologies II", "teacher": "Mr. Jethro Mariano", "time": "9:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Multimedia Publishing", "teacher": "Ms. Russel Amira Balacania", "time": "1:00 PM-4:00 PM"},
+                {"subject": "Vacant", "time": "4:00 PM-5:00 PM"},
+                {"subject": "Quantitative Methods", "teacher": "Mrs. Jermyn Evangelista", "time": "5:00 PM-6:00 PM"}
+            ],
+            "Thursday": [
+                {"subject": "Networking II", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Web System and Technologies II", "teacher": "Mr. Jethro Mariano", "time": "1:00 PM-3:00 PM"},
+                {"subject": "Vacant", "time": "3:00 PM-4:00 PM"},
+                {"subject": "Quantitative Methods", "teacher": "Mrs. Jermyn Evangelista", "time": "4:00 PM-6:00 PM"}
+            ],
+            "Friday": [
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "9:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "1:00 PM-3:00 PM"},
+                {"subject": "Vacant", "time": "3:00 PM-4:00 PM"},
+                {"subject": "System Integration and Architecture", "teacher": "Mr. Jerome Dimafelix", "time": "4:00 PM-5:00 PM"}
+            ]
+        }
+    }
+}
+{
+    "student": {
+        "name": "Banadera Jessa V.",
+        "stud_no": "2022002286",
+        "password": ",",
+        "schedule": {
+            "Monday": [
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-9:00 AM"},
+                {"subject": "Vacant", "time": "9:00 AM-10:00 AM"},
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "10:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-2:00 PM"},
+                {"subject": "System Integration and Architecture", "teacher": "Mr. Jerome Dimafelix", "time": "2:00 PM-4:00 PM"}
+            ],
+            "Tuesday": [
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "1:00 PM-5:00 PM"}
+            ],
+            "Wednesday": [
+                {"subject": "Web System and Technologies II", "teacher": "Mr. Jethro Mariano", "time": "9:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Multimedia Publishing", "teacher": "Ms. Russel Amira Balacania", "time": "1:00 PM-4:00 PM"},
+                {"subject": "Vacant", "time": "4:00 PM-5:00 PM"},
+                {"subject": "Quantitative Methods", "teacher": "Mrs. Jermyn Evangelista", "time": "5:00 PM-6:00 PM"}
+            ],
+            "Thursday": [
+                {"subject": "Networking II", "teacher": "Mr. Arjay Marucot", "time": "8:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Web System and Technologies II", "teacher": "Mr. Jethro Mariano", "time": "1:00 PM-3:00 PM"},
+                {"subject": "Vacant", "time": "3:00 PM-4:00 PM"},
+                {"subject": "Quantitative Methods", "teacher": "Mrs. Jermyn Evangelista", "time": "4:00 PM-6:00 PM"}
+            ],
+            "Friday": [
+                {"subject": "Interactive Programming Technologies II", "teacher": "Mr. Arjay Marucot", "time": "9:00 AM-12:00 PM"},
+                {"subject": "Vacant", "time": "12:00 PM-1:00 PM"},
+                {"subject": "Information Management I", "teacher": "Mr. Arjay Marucot", "time": "1:00 PM-3:00 PM"},
+                {"subject": "Vacant", "time": "3:00 PM-4:00 PM"},
+                {"subject": "System Integration and Architecture", "teacher": "Mr. Jerome Dimafelix", "time": "4:00 PM-5:00 PM"}
+            ]
+        }
+    }
+}
+
